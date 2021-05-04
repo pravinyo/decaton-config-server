@@ -1,2 +1,2 @@
-# Contains config for apps
-Repository contains config files for decaton-demo repo
+# Config Server using Spring Cloud
+Basic implementation for config server to dynamically load new changes to decaton demo app
